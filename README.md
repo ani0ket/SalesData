@@ -1,4 +1,4 @@
-# Kyte Sales Data Website
+# Sales Data Website
 
 ## Overview
 A sales data website designed to provide a user-friendly interface for visualizing and analyzing sales data. It utilizes modern web technologies and libraries to deliver a smooth and responsive experience.
